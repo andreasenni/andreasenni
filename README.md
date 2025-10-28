@@ -1,9 +1,24 @@
 # 💫 About Me:
-🏛️Former student of Academy of fine arts, willing to unite design and coding<br>🔭 Currently working as a Frontend Developer<br>🌱 Learning how to become a more creative developer
+🏛️Former student at the Academy of Fine Arts, eager to combine design and coding<br>🔭 Currently working as a Frontend Developer<br>🌱 Learning how to become a more creative developer
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/andreasenni)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andreasenni)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-senni-a12a13204/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andreasenni8@gmail.com)
+<a href="https://behance.net/andreasenni" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance">
+</a>
+
+<a href="https://instagram.com/andreasenni" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://www.linkedin.com/in/andrea-senni-a12a13204/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:andreasenni8@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+</a>
+
 
 
 # 💻 Tech Stack:
